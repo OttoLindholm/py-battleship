@@ -58,10 +58,6 @@ class Ship:
         return decks_list
 
 
-# u"\u224B" - waves
-# u"\u220E" - deck1
-# u"\u22A1" - deck2
-# u"\u22C7" - dead
 class Battleship:
     def __init__(
             self,
